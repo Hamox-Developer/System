@@ -1,0 +1,13 @@
+name: Events
+version: '${project.version}'
+main: de.elorise.events.Events
+api-version: 1.19
+authors: [ lukas ]
+commands:
+  discord:
+    aliases: [dc]
+  serverinfo:
+    aliases: [serveri]
+  fly:
+  heal:
+    aliases: [heilung]
