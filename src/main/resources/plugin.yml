@@ -1,5 +1,5 @@
 name: Events
-version: '${project.version}'
+version: 1.0.0
 main: de.elorise.events.Events
 api-version: 1.19
 authors: [ lukas ]
